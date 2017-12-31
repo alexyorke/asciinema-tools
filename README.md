@@ -1,6 +1,8 @@
 # asciinema-tools
 An application to trim, annotate, and edit asciinema casts after recording
 
+[![Updates](https://pyup.io/repos/github/Decagon/asciinema-tools/shield.svg)](https://pyup.io/repos/github/Decagon/asciinema-tools/) [![Python 3](https://pyup.io/repos/github/Decagon/asciinema-tools/python-3-shield.svg)](https://pyup.io/repos/github/Decagon/asciinema-tools/)
+
 # How to use
 Just clone the repo, `git clone https://github.com/Decagon/asciinema-tools` and run `python asciinema-tools.py` inside of the directory.
 
