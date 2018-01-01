@@ -1,10 +1,9 @@
 import json
-from pprint import pprint
 
 REMOVE_EXIT_KEYWORD = True # get rid of the "exit" at the end of the cast
 START_IMMEDIATELY = True # make first message/prompt appear immediately
 
-with open('data.json') as data_file:    
+with open('data.json') as data_file:
 	    data = json.load(data_file)
 
 if (REMOVE_EXIT_KEYWORD):
